@@ -31,13 +31,13 @@ android {
     compileSdkVersion 24
     buildToolsVersion '25.0.0'
     defaultConfig {
-        applicationId "com.minotaurus.s8portpro"
+        applicationId "com.minotaurus.s8pro"
         minSdkVersion 21
         //noinspection OldTargetApi
         targetSdkVersion 22
-        versionCode 15
-        versionName "15"
-        project.archivesBaseName = "RomControlPro"
+        versionCode 14
+        versionName "14"
+        project.archivesBaseName = "RomControlS8Pro"
     }
 
     buildTypes {
