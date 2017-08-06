@@ -454,9 +454,9 @@
         <item>@drawable/arrowstyle2</item>
     </string-array>
     <string-array name="multi_key_entries">
-        <item>Recents/Multi Window (default)</item>
+        <item>Recents/Multi Window</item>
         <item>Kill application</item>
-        <item>Menu</item>
+        <item>Nothing (default)</item>
     </string-array>
     <string-array name="multi_key_values">
         <item>0</item>
@@ -464,7 +464,7 @@
         <item>2</item>
     </string-array>
     <string-array name="home_key_entries">
-        <item>Menu (default)</item>
+        <item>Nothing (default)</item>
         <item>Kill application</item>
     </string-array>
     <string-array name="home_key_values">
@@ -508,5 +508,23 @@
         <item>@drawable/alarmstyle4</item>
         <item>@drawable/alarmstyle5</item>
         <item>@drawable/alarmstyle6</item>
+    </string-array>
+    <string-array name="toggle_entries">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="toggle_values">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
     </string-array>
 </resources>

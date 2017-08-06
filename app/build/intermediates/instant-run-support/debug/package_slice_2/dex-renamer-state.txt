@@ -1,4 +1,4 @@
-#Mon Jul 03 03:58:06 CEST 2017
+#Fri Aug 04 18:04:28 CEST 2017
 base.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 renamed.0=classes.dex
 file.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

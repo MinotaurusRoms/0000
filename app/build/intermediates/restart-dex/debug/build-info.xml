@@ -5,8 +5,8 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    plugin-version="2.3.2"
-    timestamp="1499913509873"
+    plugin-version="2.3.3"
+    timestamp="1501863592730"
     token="-4323495757547876499"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -29,8 +29,11 @@
 
     <build
         build-mode="FULL"
-        timestamp="1499913453028"
+        timestamp="1501862533336"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8Rom\app\build\outputs\apk\RomControlS8Pro-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="C:\Users\Andreas Schwenn\StudioProjects\S8Rom\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
@@ -64,13 +67,21 @@
         <artifact
             location="C:\Users\Andreas Schwenn\StudioProjects\S8Rom\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8Rom\app\build\outputs\apk\RomControlS8Pro-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1499913509873"
+        timestamp="1501862661324"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8Rom\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8Rom\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1501863592730"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Andreas Schwenn\StudioProjects\S8Rom\app\build\outputs\apk\RomControlS8Pro-debug.apk"

@@ -410,7 +410,7 @@
 
     </string-array>
     <string-array name="home_key_entries">
-        <item>Menu (default)</item>
+        <item>Nothing (default)</item>
         <item>Kill application</item>
     </string-array>
     <string-array name="home_key_values">
@@ -458,9 +458,9 @@
         <item>999</item>
     </string-array>
     <string-array name="multi_key_entries">
-        <item>Recents/Multi Window (default)</item>
+        <item>Recents/Multi Window</item>
         <item>Kill application</item>
-        <item>Menu</item>
+        <item>Nothing (default)</item>
     </string-array>
     <string-array name="multi_key_values">
         <item>0</item>
@@ -557,6 +557,24 @@
     <string-array name="thumbnail_values" translatable="false">
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="toggle_entries">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="toggle_values">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
     </string-array>
     <string-array name="traffic_state_items">
         <item>Disable view</item>
@@ -859,10 +877,10 @@
     <color name="cardview_light_background">#FFFFFFFF</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
-    <color name="colorAccent">#a80028</color>
-    <color name="colorPrimary">#0f0f3a</color>
-    <color name="colorPrimaryDark">#0c0c2e</color>
-    <color name="darkBgColor">#0c0c0d</color>
+    <color name="colorAccent">#0004ff</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="darkBgColor">#000000</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
     <color name="design_fab_shadow_start_color">#44000000</color>
@@ -1378,7 +1396,7 @@
     <integer name="app_bar_elevation_anim_duration">150</integer>
     <integer name="bottom_sheet_slide_duration">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <integer name="default_theme">0</integer>
+    <integer name="default_theme">1</integer>
     <integer name="design_snackbar_text_max_lines">2</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="Actualcarriertext">Actual carrier text</string>
@@ -1619,6 +1637,10 @@
     <string name="MobileTypeandArrowsColor">Mobile Type and Arrows Color</string>
     <string name="MultiUserSwitch">Multi User Switch</string>
     <string name="MultiuserSwitch">Multiuser Switch</string>
+    <string name="NavBarColor">NavBar Colors</string>
+    <string name="NavBarIconColor">NavBar Icon Color</string>
+    <string name="NavBarSummary">This setting contains navbar mods</string>
+    <string name="NavBarTitle">Navigation Bar</string>
     <string name="Networkname">Network name</string>
     <string name="Networktrafficpreferences">Network traffic preferences</string>
     <string name="Nextalarm">Next alarm</string>
@@ -1652,6 +1674,9 @@
     <string name="Plain">Plain</string>
     <string name="Powermenu">Power menu</string>
     <string name="Poweroff">Power off</string>
+    <string name="PullDownColor">Allow colors to be changed</string>
+    <string name="PullDownLock">Colors are locked to stock</string>
+    <string name="PullDownUnlock">Colors are unlocked for changes</string>
     <string name="QSCustomize">QS Customize</string>
     <string name="QSDetail">QS Detail</string>
     <string name="QuickRebootButton">Quick Reboot Button</string>
@@ -1821,7 +1846,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about_us">About us</string>
-    <string name="app_name" translatable="false">Minotaurus V8</string>
+    <string name="app_name" translatable="false">Minotaurus V11</string>
     <string name="app_reboot_required_dialog_message">For this action to take effect it is required to restart %1$s.\n\nPress OK to restart now</string>
     <string name="app_reboot_required_dialog_title">App reboot required</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
@@ -1918,10 +1943,12 @@
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="AppTheme.NoActionBar" parent="AppTheme">
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
     <style name="AppTheme.NoActionBar.Dark" parent="AppThemeDark">
+        <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
         <item name="android:windowBackground">@android:color/black</item>

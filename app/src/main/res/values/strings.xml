@@ -6,7 +6,7 @@
 
 <!--German translation by me/>.*/-->    <!--Italian translation by Skricciolo/>.*/-->    <!--English translation by me/>.*/-->    <!--Turkish by translation by agabey_42/>.*/-->
 <resources>
-    <string name="app_name" translatable="false">Minotaurus V8</string>
+    <string name="app_name" translatable="false">Minotaurus V11</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="dialog_color_picker">Pick Color</string>
@@ -483,6 +483,13 @@
     <string name="OwnerInfo">Owner Info</string>
     <string name="Memorycleanercolor">Memory cleaner color</string>
     <string name="Memorycleaner">Memory cleaner</string>
+    <string name="NavBarColor">NavBar Colors</string>
+    <string name="NavBarIconColor">NavBar Icon Color</string>
+    <string name="NavBarTitle">Navigation Bar</string>
+    <string name="NavBarSummary">This setting contains navbar mods</string>
+    <string name="PullDownUnlock">Colors are unlocked for changes</string>
+    <string name="PullDownLock">Colors are locked to stock</string>
+    <string name="PullDownColor">Allow colors to be changed</string>
     <!--These strings are to set the default fragment to open for the first time the app launches-->
     <!--LIC-->
     <string name="LTitle">You try to steal the app</string>
