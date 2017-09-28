@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="com.minotaurus.s8pro"
-      android:versionCode="21"
-      android:versionName="21"
+      package="com.minotaurus.n8pro"
+      android:versionCode="25"
+      android:versionName="25"
       split="lib_slice_4_apk">
 </manifest>

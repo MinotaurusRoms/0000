@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.minotaurus.s8pro"
-    android:versionCode="21"
-    android:versionName="21" >
+    package="com.minotaurus.n8pro"
+    android:versionCode="25"
+    android:versionName="25" >
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -59,7 +59,7 @@
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
-            android:authorities="com.minotaurus.s8pro.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.minotaurus.n8pro.com.android.tools.fd.runtime.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

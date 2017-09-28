@@ -1,4 +1,4 @@
-#Tue Aug 01 23:09:03 CEST 2017
+#Thu Sep 28 19:45:08 CEST 2017
 file.2=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_0f591cb7f4df297a52b853ecf4e8daa713454042\\classes.dex
 base.2=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_0f591cb7f4df297a52b853ecf4e8daa713454042
 file.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0475ef2a14501de43f16277c9050dd284faf80dd\\classes.dex

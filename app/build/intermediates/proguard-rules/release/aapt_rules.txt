@@ -1,0 +1,439 @@
+# view res/layout/activity_splash.xml #generated:2
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/activity_about.xml #generated:23
+# view res/layout/app_bar_main.xml #generated:24
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# view res/layout/design_text_input_password_icon.xml #generated:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# view res/layout/activity_about.xml #generated:31
+-keep class android.support.design.widget.CollapsingToolbarLayout { <init>(...); }
+
+# view res/layout/activity_about.xml #generated:15
+# view res/layout/app_bar_main.xml #generated:15
+# view res/layout/design_bottom_sheet_dialog.xml #generated:17
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/reboot_item.xml #generated:23
+-keep class android.support.design.widget.FloatingActionButton { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:17
+-keep class android.support.design.widget.NavigationView { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13\res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:75
+# view res/layout/about_activity_content.xml #generated:15
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:39
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/about_activity_content.xml #generated:32
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/activity_about.xml #generated:57
+# view res/layout/app_bar_main.xml #generated:29
+# view res/layout/nested_preference_toolbar_layout.xml #generated:15
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.wubydax.romcontrol.v2.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.wubydax.romcontrol.v2.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.wubydax.romcontrol.v2.MyApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.wubydax.romcontrol.v2.Splash { <init>(...); }
+
+# view land\res/layout-land/dialog_color_picker.xml #generated:60
+# view land\res/layout-land/dialog_color_picker.xml #generated:75
+# view res/layout/dialog_color_picker.xml #generated:67
+# view res/layout/dialog_color_picker.xml #generated:82
+-keep class com.wubydax.romcontrol.v2.prefs.ColorPickerPanelView { <init>(...); }
+
+# view res/xml/settings.xml #generated:125
+# view res/xml/settings.xml #generated:130
+# view res/xml/settings.xml #generated:132
+# view res/xml/settings.xml #generated:147
+# view res/xml/settings.xml #generated:148
+# view res/xml/settings.xml #generated:149
+# view res/xml/settings.xml #generated:150
+# view res/xml/settings.xml #generated:166
+# view res/xml/settings.xml #generated:172
+# view res/xml/settings.xml #generated:173
+# view res/xml/settings.xml #generated:174
+# view res/xml/settings.xml #generated:175
+# view res/xml/settings.xml #generated:176
+# view res/xml/settings.xml #generated:180
+# view res/xml/settings.xml #generated:184
+# view res/xml/settings.xml #generated:185
+# view res/xml/settings.xml #generated:186
+# view res/xml/settings.xml #generated:187
+# view res/xml/settings.xml #generated:188
+# view res/xml/settings.xml #generated:19
+# view res/xml/settings.xml #generated:20
+# view res/xml/settings.xml #generated:201
+# view res/xml/settings.xml #generated:214
+# view res/xml/settings.xml #generated:215
+# view res/xml/settings.xml #generated:226
+# view res/xml/settings.xml #generated:227
+# view res/xml/settings.xml #generated:260
+# view res/xml/settings.xml #generated:261
+# view res/xml/settings.xml #generated:262
+# view res/xml/settings.xml #generated:263
+# view res/xml/settings.xml #generated:264
+# view res/xml/settings.xml #generated:265
+# view res/xml/settings.xml #generated:266
+# view res/xml/settings.xml #generated:268
+# view res/xml/settings.xml #generated:281
+# view res/xml/settings.xml #generated:282
+# view res/xml/settings.xml #generated:301
+# view res/xml/settings.xml #generated:302
+# view res/xml/settings.xml #generated:31
+# view res/xml/settings.xml #generated:32
+# view res/xml/settings.xml #generated:332
+# view res/xml/settings.xml #generated:337
+# view res/xml/settings.xml #generated:368
+# view res/xml/settings.xml #generated:369
+# view res/xml/settings.xml #generated:41
+# view res/xml/settings.xml #generated:42
+# view res/xml/settings.xml #generated:43
+# view res/xml/settings.xml #generated:440
+# view res/xml/settings.xml #generated:45
+# view res/xml/settings.xml #generated:46
+# view res/xml/settings.xml #generated:76
+# view res/xml/settings.xml #generated:78
+# view res/xml/settings.xml #generated:79
+# view res/xml/settings.xml #generated:80
+# view res/xml/settings.xml #generated:81
+# view res/xml/settings.xml #generated:82
+# view res/xml/settings.xml #generated:83
+# view res/xml/settings.xml #generated:84
+# view res/xml/settings.xml #generated:85
+# view res/xml/settings.xml #generated:86
+# view res/xml/settings.xml #generated:87
+# view res/xml/ui_prefs.xml #generated:102
+# view res/xml/ui_prefs.xml #generated:523
+# view res/xml/ui_prefs.xml #generated:540
+# view res/xml/ui_prefs.xml #generated:88
+# view res/xml/ui_prefs.xml #generated:95
+-keep class com.wubydax.romcontrol.v2.prefs.ColorPickerPreference { <init>(...); }
+
+# view land\res/layout-land/dialog_color_picker.xml #generated:25
+# view res/layout/dialog_color_picker.xml #generated:26
+-keep class com.wubydax.romcontrol.v2.prefs.ColorPickerView { <init>(...); }
+
+# view res/xml/ui_prefs.xml #generated:307
+# view res/xml/ui_prefs.xml #generated:315
+-keep class com.wubydax.romcontrol.v2.prefs.FilePreference { <init>(...); }
+
+# view res/xml/ui_prefs.xml #generated:511
+-keep class com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference { <init>(...); }
+
+# view res/xml/settings.xml #generated:57
+# view res/xml/ui_prefs.xml #generated:224
+# view res/xml/ui_prefs.xml #generated:232
+# view res/xml/ui_prefs.xml #generated:241
+-keep class com.wubydax.romcontrol.v2.prefs.IntentDialogPreference { <init>(...); }
+
+# view res/xml/settings.xml #generated:108
+# view res/xml/settings.xml #generated:109
+# view res/xml/settings.xml #generated:110
+# view res/xml/settings.xml #generated:113
+# view res/xml/settings.xml #generated:114
+# view res/xml/settings.xml #generated:115
+# view res/xml/settings.xml #generated:118
+# view res/xml/settings.xml #generated:119
+# view res/xml/settings.xml #generated:120
+# view res/xml/settings.xml #generated:230
+# view res/xml/settings.xml #generated:231
+# view res/xml/settings.xml #generated:232
+# view res/xml/settings.xml #generated:233
+# view res/xml/settings.xml #generated:234
+# view res/xml/settings.xml #generated:235
+# view res/xml/settings.xml #generated:236
+# view res/xml/settings.xml #generated:237
+# view res/xml/settings.xml #generated:425
+# view res/xml/settings.xml #generated:433
+# view res/xml/ui_prefs.xml #generated:71
+-keep class com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference { <init>(...); }
+
+# view res/xml/settings.xml #generated:126
+# view res/xml/settings.xml #generated:333
+# view res/xml/ui_prefs.xml #generated:162
+-keep class com.wubydax.romcontrol.v2.prefs.MyEditTextPreference { <init>(...); }
+
+# view res/xml/settings.xml #generated:11
+# view res/xml/settings.xml #generated:138
+# view res/xml/settings.xml #generated:141
+# view res/xml/settings.xml #generated:144
+# view res/xml/settings.xml #generated:16
+# view res/xml/settings.xml #generated:167
+# view res/xml/settings.xml #generated:168
+# view res/xml/settings.xml #generated:191
+# view res/xml/settings.xml #generated:206
+# view res/xml/settings.xml #generated:21
+# view res/xml/settings.xml #generated:211
+# view res/xml/settings.xml #generated:216
+# view res/xml/settings.xml #generated:293
+# view res/xml/settings.xml #generated:298
+# view res/xml/settings.xml #generated:303
+# view res/xml/settings.xml #generated:360
+# view res/xml/settings.xml #generated:365
+# view res/xml/settings.xml #generated:37
+# view res/xml/settings.xml #generated:370
+# view res/xml/settings.xml #generated:39
+# view res/xml/settings.xml #generated:40
+# view res/xml/settings.xml #generated:422
+# view res/xml/settings.xml #generated:431
+# view res/xml/settings.xml #generated:432
+# view res/xml/settings.xml #generated:447
+# view res/xml/settings.xml #generated:448
+# view res/xml/settings.xml #generated:62
+# view res/xml/settings.xml #generated:63
+# view res/xml/settings.xml #generated:64
+# view res/xml/settings.xml #generated:65
+# view res/xml/settings.xml #generated:67
+# view res/xml/settings.xml #generated:68
+# view res/xml/settings.xml #generated:69
+# view res/xml/settings.xml #generated:90
+# view res/xml/ui_prefs.xml #generated:153
+-keep class com.wubydax.romcontrol.v2.prefs.MyListPreference { <init>(...); }
+
+# view res/xml/settings.xml #generated:12
+# view res/xml/settings.xml #generated:143
+# view res/xml/settings.xml #generated:145
+# view res/xml/settings.xml #generated:199
+# view res/xml/settings.xml #generated:200
+# view res/xml/settings.xml #generated:207
+# view res/xml/settings.xml #generated:283
+# view res/xml/settings.xml #generated:284
+# view res/xml/settings.xml #generated:285
+# view res/xml/settings.xml #generated:294
+# view res/xml/settings.xml #generated:361
+# view res/xml/settings.xml #generated:426
+# view res/xml/settings.xml #generated:66
+# view res/xml/ui_prefs.xml #generated:117
+# view res/xml/ui_prefs.xml #generated:123
+# view res/xml/ui_prefs.xml #generated:133
+-keep class com.wubydax.romcontrol.v2.prefs.MySeekBarPreference { <init>(...); }
+
+# view res/xml/settings.xml #generated:124
+# view res/xml/settings.xml #generated:129
+# view res/xml/settings.xml #generated:131
+# view res/xml/settings.xml #generated:136
+# view res/xml/settings.xml #generated:139
+# view res/xml/settings.xml #generated:140
+# view res/xml/settings.xml #generated:142
+# view res/xml/settings.xml #generated:146
+# view res/xml/settings.xml #generated:154
+# view res/xml/settings.xml #generated:155
+# view res/xml/settings.xml #generated:161
+# view res/xml/settings.xml #generated:165
+# view res/xml/settings.xml #generated:171
+# view res/xml/settings.xml #generated:179
+# view res/xml/settings.xml #generated:183
+# view res/xml/settings.xml #generated:198
+# view res/xml/settings.xml #generated:204
+# view res/xml/settings.xml #generated:224
+# view res/xml/settings.xml #generated:242
+# view res/xml/settings.xml #generated:246
+# view res/xml/settings.xml #generated:253
+# view res/xml/settings.xml #generated:256
+# view res/xml/settings.xml #generated:259
+# view res/xml/settings.xml #generated:26
+# view res/xml/settings.xml #generated:267
+# view res/xml/settings.xml #generated:271
+# view res/xml/settings.xml #generated:273
+# view res/xml/settings.xml #generated:280
+# view res/xml/settings.xml #generated:29
+# view res/xml/settings.xml #generated:291
+# view res/xml/settings.xml #generated:30
+# view res/xml/settings.xml #generated:328
+# view res/xml/settings.xml #generated:33
+# view res/xml/settings.xml #generated:330
+# view res/xml/settings.xml #generated:331
+# view res/xml/settings.xml #generated:336
+# view res/xml/settings.xml #generated:340
+# view res/xml/settings.xml #generated:343
+# view res/xml/settings.xml #generated:347
+# view res/xml/settings.xml #generated:358
+# view res/xml/settings.xml #generated:375
+# view res/xml/settings.xml #generated:376
+# view res/xml/settings.xml #generated:377
+# view res/xml/settings.xml #generated:378
+# view res/xml/settings.xml #generated:379
+# view res/xml/settings.xml #generated:38
+# view res/xml/settings.xml #generated:381
+# view res/xml/settings.xml #generated:382
+# view res/xml/settings.xml #generated:383
+# view res/xml/settings.xml #generated:384
+# view res/xml/settings.xml #generated:385
+# view res/xml/settings.xml #generated:386
+# view res/xml/settings.xml #generated:387
+# view res/xml/settings.xml #generated:418
+# view res/xml/settings.xml #generated:420
+# view res/xml/settings.xml #generated:424
+# view res/xml/settings.xml #generated:428
+# view res/xml/settings.xml #generated:429
+# view res/xml/settings.xml #generated:439
+# view res/xml/settings.xml #generated:44
+# view res/xml/settings.xml #generated:53
+# view res/xml/settings.xml #generated:56
+# view res/xml/settings.xml #generated:60
+# view res/xml/settings.xml #generated:61
+# view res/xml/settings.xml #generated:74
+# view res/xml/settings.xml #generated:9
+# view res/xml/settings.xml #generated:93
+# view res/xml/ui_prefs.xml #generated:33
+# view res/xml/ui_prefs.xml #generated:41
+# view res/xml/ui_prefs.xml #generated:517
+# view res/xml/ui_prefs.xml #generated:52
+# view res/xml/ui_prefs.xml #generated:534
+# view res/xml/ui_prefs.xml #generated:62
+-keep class com.wubydax.romcontrol.v2.prefs.MySwitchPreference { <init>(...); }
+
+# view res/xml/settings.xml #generated:27
+# view res/xml/settings.xml #generated:309
+# view res/xml/settings.xml #generated:380
+# view res/xml/settings.xml #generated:410
+# view res/xml/settings.xml #generated:411
+# view res/xml/settings.xml #generated:412
+# view res/xml/settings.xml #generated:413
+# view res/xml/settings.xml #generated:436
+# view res/xml/settings.xml #generated:52
+# view res/xml/ui_prefs.xml #generated:21
+# view res/xml/ui_prefs.xml #generated:346
+# view res/xml/ui_prefs.xml #generated:350
+# view res/xml/ui_prefs.xml #generated:355
+# view res/xml/ui_prefs.xml #generated:362
+-keep class com.wubydax.romcontrol.v2.prefs.OpenAppPreference { <init>(...); }
+
+# view res/xml/settings.xml #generated:393
+# view res/xml/settings.xml #generated:394
+# view res/xml/settings.xml #generated:395
+# view res/xml/settings.xml #generated:396
+# view res/xml/settings.xml #generated:397
+# view res/xml/settings.xml #generated:398
+# view res/xml/settings.xml #generated:399
+# view res/xml/settings.xml #generated:400
+# view res/xml/settings.xml #generated:401
+# view res/xml/settings.xml #generated:402
+# view res/xml/settings.xml #generated:403
+# view res/xml/settings.xml #generated:415
+# view res/xml/settings.xml #generated:416
+# view res/xml/settings.xml #generated:443
+# view res/xml/settings.xml #generated:444
+# view res/xml/settings.xml #generated:445
+# view res/xml/ui_prefs.xml #generated:395
+# view res/xml/ui_prefs.xml #generated:408
+# view res/xml/ui_prefs.xml #generated:436
+# view res/xml/ui_prefs.xml #generated:443
+# view res/xml/ui_prefs.xml #generated:456
+-keep class com.wubydax.romcontrol.v2.prefs.RunScriptPreference { <init>(...); }
+
+# view res/xml/settings.xml #generated:100
+# view res/xml/settings.xml #generated:101
+# view res/xml/settings.xml #generated:104
+# view res/xml/settings.xml #generated:243
+# view res/xml/settings.xml #generated:350
+# view res/xml/settings.xml #generated:96
+# view res/xml/settings.xml #generated:97
+# view res/xml/ui_prefs.xml #generated:177
+# view res/xml/ui_prefs.xml #generated:187
+-keep class com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference { <init>(...); }
+
+# view res/xml/settings.xml #generated:15
+# view res/xml/settings.xml #generated:210
+# view res/xml/settings.xml #generated:297
+# view res/xml/settings.xml #generated:364
+# view res/xml/ui_prefs.xml #generated:271
+# view res/xml/ui_prefs.xml #generated:274
+# view res/xml/ui_prefs.xml #generated:277
+# view res/xml/ui_prefs.xml #generated:280
+-keep class com.wubydax.romcontrol.v2.prefs.UriSelectionPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class com.wubydax.romcontrol.v2.utils.BackupRestoreIntentService { <init>(...); }
+
+# view land\res/layout-land/reboot_layout.xml #generated:40
+# view land\res/layout-land/reboot_layout.xml #generated:51
+# view land\res/layout-land/reboot_layout.xml #generated:62
+# view res/layout/reboot_layout.xml #generated:41
+-keep class com.wubydax.romcontrol.v2.views.RebootView { <init>(...); }
+
+# view res/layout/about_contact_us_item.xml #generated:24
+# view res/layout/about_people_item.xml #generated:21
+-keep class de.hdodenhof.circleimageview.CircleImageView { <init>(...); }
+
+# onClick res/layout/about_contact_us_item.xml #generated:15
+# onClick res/layout/about_people_item.xml #generated:15
+-keepclassmembers class * { *** onClick(...); }
+

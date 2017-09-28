@@ -527,4 +527,52 @@
         <item>8</item>
         <item>9</item>
     </string-array>
+    <string-array name="listview_animation_entries">
+        <item>Off</item>
+        <item>Wave Left</item>
+        <item>Wave Right</item>
+        <item>Scale</item>
+        <item>Alpha</item>
+        <item>Stack Top</item>
+        <item>Stack Bottom</item>
+        <item>Unfold</item>
+        <item>Fold</item>
+        <item>Translate Left</item>
+        <item>Translate Right</item>
+        <item>Rotate</item>
+    </string-array>
+    <string-array name="listview_animation_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="listview_interpolator_entries">
+        <item>Off</item>
+        <item>Accelerate</item>
+        <item>Decelerate</item>
+        <item>Accelerate decelerate</item>
+        <item>Anticipate</item>
+        <item>Overshoot</item>
+        <item>Anticipate overshoot</item>
+        <item>Bounce</item>
+    </string-array>
+    <string-array name="listview_interpolator_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
 </resources>

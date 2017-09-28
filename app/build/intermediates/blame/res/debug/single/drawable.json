@@ -100,6 +100,10 @@
         "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\src\\main\\res\\drawable\\wifistyle6.png"
     },
     {
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_twlauncher.png",
+        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\src\\main\\res\\drawable\\ic_twlauncher.png"
+    },
+    {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Andreas Schwenn\\.android\\build-cache\\1262e41a3fa2afd23f3b91a2d4ed10410a70b3f6\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
@@ -570,6 +574,10 @@
     {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lockscreen.png",
         "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\src\\main\\res\\drawable\\ic_lockscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather.png",
+        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\src\\main\\res\\drawable\\weather.png"
     },
     {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8Rom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a29.png",
